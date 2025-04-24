@@ -16,7 +16,7 @@ If you haven't already set up MagicMirror, follow the instructions on the [Magic
 1. Clone the repository to your `modules` directory of MagicMirror:
    ```bash
    cd ~/MagicMirror/modules
-   git clone https://github.com/yourusername/mmm-radarpresence.git
+   git clone https://github.com/Harishcchadichal/mmm-radarpresence.git
    ```
 
 2. Navigate to the module directory:
