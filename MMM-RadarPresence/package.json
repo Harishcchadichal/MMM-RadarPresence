@@ -2,7 +2,7 @@
   "name": "mmm-radarpresence",  
   "version": "1.0.0",
   "description": "A MagicMirror module for controlling the mirror using radar motion detection.",
-  "author": "HarishChadichal and NikhilMalashetti",
+  "author": "HarishChadichal and NikhilMalshetti",
   "dependencies": {
     "serialport": "^13.0.0"
   }
