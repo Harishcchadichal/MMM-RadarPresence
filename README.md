@@ -77,6 +77,10 @@ Here is an example of how you can configure the module:
 2. **Serial Port Errors**:
    - Ensure that the correct serial port is specified in the configuration file.
    - You might need to adjust permissions for accessing the serial port (`/dev/ttyS0` on Raspberry Pi).
+## Authors
+- [HarishChadichal](https://github.com/Harishcchadichal)
+- [NikhilMalshetti](https://github.com/NikhilNMalshetti)
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
