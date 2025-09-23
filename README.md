@@ -24,7 +24,7 @@ If you haven't already set up MagicMirror, follow the instructions on the [Magic
    cd mmm-radarpresence
    ```
 
-3. Install the required dependencies:
+3. Install the required dependencies::
    ```bash
    npm install
    ```
